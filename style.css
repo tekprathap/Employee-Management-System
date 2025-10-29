@@ -12,12 +12,23 @@ body {
   color: #333;
   padding: 20px;
 }
-
+.employees-title{
+  text-align: center;
+  margin: 10px;
+  color: blue;
+}
 header {
   text-align: center;
   margin-bottom: 20px;
+  
 }
-
+#cancelBtn{
+  padding: 10px 10px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  background-color: red;
+}
 header h1 {
   color: #0077ff;
 }
